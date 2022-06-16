@@ -12,4 +12,5 @@ int main(void){
     if(a < 0)
         a = 23;
     cout << a << " "<< b;
+    return 0;
 }
